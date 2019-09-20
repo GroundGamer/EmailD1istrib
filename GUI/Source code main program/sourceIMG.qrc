@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Isxod">
+    <file>Button.png</file>
+    <file>Result.png</file>
+    <file>Безымянный-2.svg</file>
+    <file>Безымянный-1.svg</file>
+    <file>SVG/hateМонтажная область 1.svg</file>
+    <file>background.png</file>
+    <file>e316b3d847cae08c0093c617233b2eef.jpg</file>
+  </qresource>
+</RCC>

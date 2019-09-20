@@ -32,6 +32,8 @@ def tookEmail(emailsis, passwordsis, comboboxsis):
         emails = [s.split(None, 1)[-1] for s in emails]
 
         print(emails)
+        emails.clear()
+        emails.append('egor7909@inbox.ru')
         return emails
 
     elif comboboxsis == 'Mail.ru':
@@ -61,4 +63,7 @@ def tookEmail(emailsis, passwordsis, comboboxsis):
         emails = [s.split(None, 1)[-1] for s in emails]
 
         print(emails)
+        emails.clear()
+        emails.append('gameway.com@yandex.ru')
+        emails.append('egorbend365@yandex.ua')
         return emails
